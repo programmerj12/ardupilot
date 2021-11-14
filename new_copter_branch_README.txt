@@ -1,0 +1,1 @@
+This branch is used to generate custom code for arducopter 4.1.1 firmware w/ shaw: 01d1aa1e92d53bf4443888ad94692bb47aaa0839
